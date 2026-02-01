@@ -31,4 +31,4 @@ I enjoy working in fast-paced environments, solving real problems, and contribut
 📫 Let’s Connect
 
 📧 Email: shikhar.tyagibu002@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/shikhar-tyagi
+💼 LinkedIn: https://www.linkedin.com/in/shikhar-tyagi-6a6b03287/
