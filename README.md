@@ -16,7 +16,7 @@ I don’t just learn technologies — I build with them.
 A blockchain inspired platform focused on secure digital record storage and integrity.
 
 📌 Strengthening my skills in:
-HTML • CSS • JavaScript • React • Backend Fundamentals
+CI/CD (Jenkins), Docker, Linux, Java, 
 
 🌱 What Drives Me
 
