@@ -16,7 +16,7 @@ I don’t just learn technologies — I build with them.
 A blockchain inspired platform focused on secure digital record storage and integrity.
 
 📌 Strengthening my skills in:
-CI/CD (Jenkins), Docker, Linux, Java, 
+Flutter, Dart , Cross Platform App Dev , Firebase
 
 🌱 What Drives Me
 
