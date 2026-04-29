@@ -1,34 +1,108 @@
-🚀 (Shikhar Tyagi) | Builder in Progress
+<h1 align="center">⚡ Hi, I'm Shikhar Tyagi ⚡</h1>
+<h3 align="center">Flutter Developer • Blockchain Builder • Student</h3>
 
-👋 Hey! I’m Omkar (Shikhar Tyagi) — a BTech CSE student specializing in Blockchain, passionate about building impactful products at the intersection of Web Development + Decentralized Tech.
+<p align="center">
+Building premium mobile apps, Web3 products, and real-world scalable solutions.
+</p>
 
-I don’t just learn technologies — I build with them.
+<p align="center">
+<a href="https://shikhartyy.github.io">🌐 Portfolio</a> •
+<a href="https://github.com/shikhartyy">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/shikhar-tyagi-6a6b03287/">💼 LinkedIn</a>
+</p>
 
-💻 What I Do
+---
 
-⚡ Develop clean, responsive, and user-focused web applications
-🔗 Explore blockchain-based systems for security and transparency
-🛠 Turn ideas into real-world projects with strong execution
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shikhar%20Tyagi&fontSize=42&fontColor=7CFF6B&animation=fadeIn" />
 
-🚀 Currently Working On
+## 🚀 About Me
 
-📌 Evidence Management locker
-A blockchain inspired platform focused on secure digital record storage and integrity.
+* 🎓 Student passionate about product building & startups
+* 📱 Flutter app developer with modern UI focus
+* 🔗 Blockchain / Web3 enthusiast
+* ☁️ Learning cloud systems with AWS
+* 🧠 Interested in scalable real-world solutions
 
-📌 Strengthening my skills in:
-Flutter, Dart , Cross Platform App Dev , Firebase
+---
 
-🌱 What Drives Me
+## ⚒️ Tech Stack
 
-I enjoy working in fast-paced environments, solving real problems, and contributing to meaningful projects — especially in early-stage startup spaces where learning is exponential.
+<p align="center">
 
-📌 Goals
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,solidity,java,aws,git,github,vscode,androidstudio" />
 
-🎯 Build production-level projects
-🎯 Grow as a full-stack + blockchain developer
-🎯 Contribute to impactful startups and tech teams
+</p>
 
-📫 Let’s Connect
+---
 
-📧 Email: shikhar.tyagibu002@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/shikhar-tyagi-6a6b03287/
+## 🌟 Featured Projects
+
+| Project              | Description                                                 |
+| -------------------- | ----------------------------------------------------------- |
+| 🍽 NutriBite AI      | Premium Flutter nutrition app with meal builder & cart flow |
+| ₿ Bitcoin Web Wallet | Crypto wallet focused product                               |
+| 🛡 BlockGuard 2.0    | AI-powered blockchain security concept                      |
+| 📈 Mutual Fund D-App | Decentralized investment-focused application                |
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shikhartyy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhartyy&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhartyy&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shikhartyy&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shikhartyy/shikhartyy/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhartyy&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:shikhar.tyagi02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shikhar-tyagi-6a6b03287/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://shikhartyy.github.io">
+<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shikhartyy&label=Profile%20Views&color=7CFF6B&style=for-the-badge"/>
+</p>
