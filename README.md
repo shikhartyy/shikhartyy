@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Hi, I'm Shikhar Tyagi ⚡</h1>
-<h3 align="center">Flutter Developer • Blockchain Builder • Student</h3>
+<h3 align="center">Flutter Developer • Blockchain Dev • Student</h3>
 
 <p align="center">
 Building premium mobile apps, Web3 products, and real-world scalable solutions.
